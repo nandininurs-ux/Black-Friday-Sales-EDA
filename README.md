@@ -28,3 +28,9 @@ This project performs exploratory data analysis on the Black Friday sales datase
 
 ## 📎 Notebook
 - `Black_Friday_Sales_Analysis.ipynb`
+
+- ## 📊 Dataset
+- Source: Kaggle – Black Friday Sales Dataset
+- Due to GitHub file size limits, the dataset is not included in this repository.
+- You can download it from Kaggle and place it in the `data/` folder.
+
